@@ -39,6 +39,6 @@ jobs:
         with:
           project: "drcklinn"
           entrypoint: "https://deno.land/std@0.217.0/http/file_server.ts"
-          root: ""
+          root: "/"
           
           
